@@ -2,7 +2,7 @@
 
 Structure Tensor Analysis (axon bundle tracking) on fluorescence images from cleared brain
 
-## General wordflow
+## General workflow
 
 `sta_flow.py` calculates the eigenvector field of the local Hessian matrix
 
